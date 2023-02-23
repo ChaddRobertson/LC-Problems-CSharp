@@ -1,0 +1,15 @@
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\bin\Debug\net7.0\LC-Problems.exe
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\bin\Debug\net7.0\LC-Problems.deps.json
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\bin\Debug\net7.0\LC-Problems.runtimeconfig.json
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\bin\Debug\net7.0\LC-Problems.dll
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\bin\Debug\net7.0\LC-Problems.pdb
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.csproj.AssemblyReference.cache
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.AssemblyInfoInputs.cache
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.AssemblyInfo.cs
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.csproj.CoreCompileInputs.cache
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.dll
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\refint\LC-Problems.dll
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.pdb
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\LC-Problems.genruntimeconfig.cache
+C:\Users\chadd\Desktop\Personal\My Repositories\LC-Problems\obj\Debug\net7.0\ref\LC-Problems.dll

@@ -30,4 +30,17 @@ public class EasyProblems {
         return indeces;
     }
 
+
+    /// <summary>
+    /// </summary>
+    public static void Problem_9(int x) {
+
+        List<int> values = new List<int>();
+
+        for (int i = 1; i <= x; i *= 10) {
+
+            
+        }
+    }
+
 }

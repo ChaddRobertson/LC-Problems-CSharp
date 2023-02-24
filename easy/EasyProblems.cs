@@ -12,22 +12,20 @@ public class EasyProblems {
     /// </summary>
     public static int[] Problem_1(int[] nums, int target) {
 
-        int index_1 = 0; // Answer is expected, so indeces are initialised as zero,
-        int index_2 = 0;
+        int[] indeces = {0, 0};
 
         for (int i = 0; i < nums.Length; i++)
         {
-            int difference = target - nums[i];
-            int differenceIndex = Array.IndexOf(nums, difference);
+            int differenceIndex = Array.IndexOf(nums, target - nums[i]);
 
             if (differenceIndex != -1 && differenceIndex != i) {
 
-                index_1 = differenceIndex;
-                index_2 = i;
+                indeces[0] = differenceIndex;
+                indeces[1] = i;
+
+                break;
             }
         }
-
-        int[] indeces = {index_1, index_2};
 
         return indeces;
     }

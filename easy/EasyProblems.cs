@@ -1,5 +1,4 @@
 
-
 public class EasyProblems {
 
 
@@ -12,7 +11,7 @@ public class EasyProblems {
     /// </summary>
     public static int[] Problem_1(int[] nums, int target) {
 
-        int[] indeces = {0, 0};
+        int[] indeces = new int[2];
 
         for (int i = 0; i < nums.Length; i++)
         {
@@ -20,8 +19,8 @@ public class EasyProblems {
 
             if (differenceIndex != -1 && differenceIndex != i) {
 
-                indeces[0] = differenceIndex;
-                indeces[1] = i;
+                indeces.SetValue(differenceIndex, 0);
+                indeces.SetValue(i, 1);
 
                 break;
             }
